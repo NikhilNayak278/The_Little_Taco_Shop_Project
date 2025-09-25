@@ -54,9 +54,6 @@ npx http-server . -p 8000
 3. Make changes and test locally.
 4. Open a pull request describing your change.
 
-## License
-Add a license that fits your needs. For demos and starters, the MIT license is a common choice.
-
 ## Author
 Nikhil Nayak
 
